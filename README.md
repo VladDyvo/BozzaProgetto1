@@ -32,7 +32,7 @@
 retail_sales_analytics/
 │
 ├── data/
-│   └── online_retail_II.csv             # Dataset originale (non modificare)
+│   └── online_retail_II.csv             # Dataset originale 
 │
 ├── 01_data_cleaning.ipynb               # Notebook 1: Pulizia e Feature Engineering
 ├── 02_eda.ipynb                         # Notebook 2: EDA e trend temporali
